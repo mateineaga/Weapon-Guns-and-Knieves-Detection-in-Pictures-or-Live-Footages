@@ -144,7 +144,7 @@ This project successfully implemented a **deep learning-based weapon detection s
 ✔️ **Reducing dataset imbalance** for improved model generalization 📊  
 
 ## 8️⃣ References
-📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/End-to-end-Microsoft-Azure-Pipeline---Bitcoin-and-Oil-Price-Correlation-and-Prediction/blob/main/End-to-end-Microsoft-Azure-Pipeline--Bitcoin-and-Oil-Price-Correlation-and-Prediction.pdf).
+📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/Weapon-Guns-and-Knieves-Detection-in-Pictures-or-Live-Footages/blob/main/Weapon-Guns-and-Knieves-Detection-in-Pictures-or-Live-Footages.pdf).
 
 ---
 
