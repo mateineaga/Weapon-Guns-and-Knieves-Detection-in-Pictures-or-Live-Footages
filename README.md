@@ -143,5 +143,8 @@ This project successfully implemented a **deep learning-based weapon detection s
 ✔️ **Edge computing integration** for real-time processing ⚡  
 ✔️ **Reducing dataset imbalance** for improved model generalization 📊  
 
-📢 **This project lays the foundation for intelligent surveillance systems, providing an efficient and scalable solution for public safety!** 🔥
+## 8️⃣ References
+📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/End-to-end-Microsoft-Azure-Pipeline---Bitcoin-and-Oil-Price-Correlation-and-Prediction/blob/main/End-to-end-Microsoft-Azure-Pipeline--Bitcoin-and-Oil-Price-Correlation-and-Prediction.pdf).
+
+---
 
