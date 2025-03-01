@@ -1,4 +1,4 @@
-# 🔍 Computer Vision Project: Weapons Detection in Pictures and Videos
+# 🔍 Weapons Detection in Pictures and Videos
 
 ## 👨‍💻 Project Overview
 
